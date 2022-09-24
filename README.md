@@ -1,0 +1,2 @@
+# sliderOne
+sliderOne (Vanilla JS)

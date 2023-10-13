@@ -1,5 +1,5 @@
 # sliderOne
-sliderOne (Vanilla JS)
+simple test slider
 
 - one active slide in slider
 - slides change by appearing and disappearing
